@@ -1,0 +1,4 @@
+- Update the .batchrc file
+- Install/configure Python via *conda*
+  - ...
+- Configure emacs
