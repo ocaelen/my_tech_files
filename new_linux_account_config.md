@@ -2,3 +2,5 @@
 - Install/configure Python via *conda*
   - ...
 - Configure emacs
+- screen
+  - Update the file .screenrc
