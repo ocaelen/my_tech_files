@@ -1,6 +1,10 @@
 - Update the .batchrc file
 - Install/configure Python via *conda*
   - ...
-- Configure emacs
+- git
+- emacs
+  - Install emacs
+  - Update .emacs
 - screen
+  - Install screen
   - Update the file .screenrc
