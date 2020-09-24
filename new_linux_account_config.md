@@ -4,6 +4,7 @@
 - git
 - emacs
   - Install emacs
+  - install ESS [https://ess.r-project.org/]
   - Update .emacs
 - screen
   - Install screen
