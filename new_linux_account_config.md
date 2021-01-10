@@ -1,6 +1,6 @@
 - Update the .batchrc file
 - Install/configure Python via *conda*
-  - ...
+  - https://docs.anaconda.com/anaconda/install/linux/
 - git
 - emacs
   - Install emacs
